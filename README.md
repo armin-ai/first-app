@@ -1,2 +1,2 @@
 # first-app
-My First Application On GitHub
+This is a test file to learn Git and how how to use it on GitHub :)
